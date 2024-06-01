@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 15 Generated at: 2024-02-20 19:14:24 -->
+
+  <url>
+    <loc>https://kk-wuyue.top/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/tags/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/categories/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/archives/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/post/tools-acquisition/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/cdn-cgi/l/email-protection</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/tags/Blog/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/tags/GitHub/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/tags/Nodejs/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/post/Blog-building/</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/tags/%E5%8E%9F%E7%A5%9E/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/tags/%E5%B4%A9%E5%9D%8F%C2%B7%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/tags/%E7%A7%81%E6%9C%8D/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/categories/%E5%B7%A5%E5%85%B7%E8%8E%B7%E5%8F%96/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://kk-wuyue.top/categories/%E6%95%99%E7%A8%8B/</loc>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
